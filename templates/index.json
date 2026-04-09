@@ -1,12 +1,4 @@
-/*
- * ------------------------------------------------------------
- * IMPORTANT: The contents of this file are auto-generated.
- *
- * This file may be updated by the Shopify admin theme editor
- * or related systems. Please exercise caution as any changes
- * made to this file may be overwritten.
- * ------------------------------------------------------------
- */{
+{
   "sections": {
     "section_6PnLrM": {
       "type": "section",
@@ -111,7 +103,7 @@
                   "type": "text",
                   "name": "Text",
                   "settings": {
-                    "text": "<p>Skincare, simplified.</p>",
+                    "text": "<p>Insumos Profesionales.</p>",
                     "width": "fit-content",
                     "max_width": "none",
                     "alignment": "center",
@@ -137,7 +129,7 @@
                   "type": "text",
                   "name": "Text",
                   "settings": {
-                    "text": "<p>Only clean, caring ingredients,<br/>and nothing more.</p>",
+                    "text": "<p>Calidad premium para<br/>lashistas de \u00e9lite.</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "center",
@@ -215,7 +207,8 @@
             "video_loop": true,
             "video_autoplay": false,
             "image_position": "cover",
-            "video_position": "cover"
+            "video_position": "cover",
+            "image": "lash_adhesive_premium_1775778369958.png"
           },
           "blocks": {}
         },
@@ -232,7 +225,7 @@
               "type": "text",
               "name": "t:text_defaults.heading",
               "settings": {
-                "text": "<h2>Our philosophy</h2>",
+                "text": "<h2>Nuestra Filosof\u00eda</h2>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "center",
@@ -257,7 +250,7 @@
             "text_8kEdFg": {
               "type": "text",
               "settings": {
-                "text": "<p>Skincare that actually cares for your skin. Made with only clean, carefully-selected ingredients that leave complexions glowing. </p>",
+                "text": "<p>Materiales dise\u00f1ados para maximizar la retenci\u00f3n y facilitar el armado de abanicos. Creados exclusivamente para el fino arte de la aplicaci\u00f3n de pesta\u00f1as.</p>",
                 "width": "100%",
                 "max_width": "narrow",
                 "alignment": "center",
@@ -309,7 +302,8 @@
             "video_loop": true,
             "video_autoplay": false,
             "image_position": "cover",
-            "video_position": "cover"
+            "video_position": "cover",
+            "image": "volume_lash_trays_1775778383499.png"
           },
           "blocks": {}
         },
@@ -326,7 +320,7 @@
               "type": "text",
               "name": "t:text_defaults.heading",
               "settings": {
-                "text": "<h2>The skincare standard</h2>",
+                "text": "<h2>Est\u00e1ndar Lashista</h2>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "center",
@@ -351,7 +345,7 @@
             "text_xYkVGw": {
               "type": "text",
               "settings": {
-                "text": "<p>We set our standards high, and so should you. Our soothing formulas give your skin exactly what it needs and nothing more. </p>",
+                "text": "<p>Adhesivos de grado profesional y fibras de seda ultra ligeras. Eleva el nivel de tus aplicaciones con nuestros productos desarrollados bajo rigurosos est\u00e1ndares de calidad.</p>",
                 "width": "100%",
                 "max_width": "narrow",
                 "alignment": "center",
@@ -432,7 +426,7 @@
               "type": "_product-list-text",
               "name": "t:names.collection_title",
               "settings": {
-                "text": "<h3>Bestsellers</h3>",
+                "text": "<h3>Nuestros Insumos Estrella</h3>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -458,7 +452,7 @@
               "type": "_product-list-button",
               "name": "t:names.product_list_button",
               "settings": {
-                "label": "View all",
+                "label": "Ver Cat\u00e1logo",
                 "open_in_new_tab": false,
                 "style_class": "link",
                 "width": "fit-content",
@@ -698,7 +692,8 @@
                 "padding-block-start": 0,
                 "padding-block-end": 0,
                 "padding-inline-start": 0,
-                "padding-inline-end": 0
+                "padding-inline-end": 0,
+                "image": "lash_adhesive_premium_1775778369958.png"
               },
               "blocks": {}
             },
@@ -706,7 +701,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h2><a href=\"/collections/moisturizers\" title=\"Moisturizers\">The hydration collection</a></h2>",
+                "text": "<h2><a href=\"/collections/all\" title=\"Adhesivos\">Adhesivos Premium</a></h2>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "center",
@@ -789,7 +784,8 @@
                 "padding-block-start": 0,
                 "padding-block-end": 0,
                 "padding-inline-start": 0,
-                "padding-inline-end": 0
+                "padding-inline-end": 0,
+                "image": "precision_lash_tweezers_1775778394883.png"
               },
               "blocks": {}
             },
@@ -797,7 +793,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h2><a href=\"/collections/bundles\" title=\"Bundles\">Bundles</a></h2>",
+                "text": "<h2><a href=\"/collections/all\" title=\"Herramientas\">Pinzas de Precisi\u00f3n</a></h2>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "center",
